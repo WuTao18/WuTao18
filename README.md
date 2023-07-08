@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⭐ Hobbies: Boxing🥊, Hiking🥾, Taekwondo (WTF)🥋, Drawing✏️, Swimming🥽
 
 ### Languages and Frameworks
-![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=#E57324)
+![Rust](https://img.shields.io/badge/Rust-ED6D31?style=flat&logo=rust&logoColor=#E57324)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
@@ -40,4 +40,3 @@ Here are some ideas to get you started:
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white)
